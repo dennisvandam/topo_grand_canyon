@@ -1,0 +1,48 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.2" viewBox="0 0 2075.2423 2354.6004" width="175.11984mm" height="198.69402mm" id="svg1487" sodipodi:docname="contours_87_6-4_layers.tar" inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1342" inkscape:window-height="805" id="namedview1489" showgrid="false" fit-margin-left="5" fit-margin-top="5" fit-margin-right="5" fit-margin-bottom="5" inkscape:showpageshadow="false" inkscape:zoom="0.82323927" inkscape:cx="289.1595" inkscape:cy="378.93427" inkscape:window-x="44" inkscape:window-y="23" inkscape:window-maximized="0" inkscape:current-layer="layer29"/>
+  <defs id="defs84">
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath2204">
+      <rect style="opacity:0.990354;fill:none;stroke:#000000;stroke-width:3.394" id="rect2206" width="1561.3312" height="1930.2112" x="388.22952" y="271.944"/>
+    </clipPath>
+  </defs>
+  <defs id="defs107"/>
+  <defs id="defs136"/>
+  <metadata id="metadata1485">
+    <rdf:RDF>
+      <rdf:Description dc:date="2021-04-30T14:29:02" dc:identifier="" dc:format="image/svg+xml" dc:description="" dc:title="">
+        <dc:creator>
+          <rdf:Bag>
+            <rdf:li>Dennis</rdf:li>
+          </rdf:Bag>
+        </dc:creator>
+        <dc:publisher>
+          <rdf:Bag>
+            <rdf:li>QGIS 3.16.6-Hannover</rdf:li>
+          </rdf:Bag>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag/>
+        </dc:subject>
+      </rdf:Description>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:title/>
+        <dc:date>2021-04-30T14:29:02</dc:date>
+        <dc:identifier/>
+        <dc:description/>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dennis</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>QGIS 3.16.6-Hannover</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+<svg:g stroke="#000000" fill-rule="evenodd" inkscape:label="Map 1: contours_87_6" stroke-linecap="square" fill="none" id="Map 1: contours_87_6" stroke-width="1" stroke-linejoin="bevel" style="display:inline;opacity:0.973154" transform="translate(-326.8753,-209.72273)" inkscape:groupmode="layer"/>
+  </svg>

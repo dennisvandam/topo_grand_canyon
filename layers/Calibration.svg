@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   viewBox="0 0 2075.2423 2354.6004"
+   width="175.11984mm"
+   height="198.69402mm"
+   id="svg1487"
+   sodipodi:docname="Calibration.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1540"
+     inkscape:window-height="836"
+     id="namedview1489"
+     showgrid="false"
+     fit-margin-left="5"
+     fit-margin-top="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="0.82323927"
+     inkscape:cx="173.7617"
+     inkscape:cy="372.45408"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer29"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs84">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2204">
+      <rect
+         style="opacity:0.990354;fill:none;stroke:#000000;stroke-width:3.394"
+         id="rect2206"
+         width="1561.3312"
+         height="1930.2112"
+         x="388.22952"
+         y="271.944" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs107" />
+  <defs
+     id="defs136" />
+  <metadata
+     id="metadata1485">
+    <rdf:RDF>
+      <rdf:Description
+         dc:date="2021-04-30T14:29:02"
+         dc:identifier=""
+         dc:format="image/svg+xml"
+         dc:description=""
+         dc:title="">
+        <dc:creator>
+          <rdf:Bag>
+            <rdf:li>Dennis</rdf:li>
+          </rdf:Bag>
+        </dc:creator>
+        <dc:publisher>
+          <rdf:Bag>
+            <rdf:li>QGIS 3.16.6-Hannover</rdf:li>
+          </rdf:Bag>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:title></dc:title>
+        <dc:date>2021-04-30T14:29:02</dc:date>
+        <dc:identifier />
+        <dc:description />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dennis</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>QGIS 3.16.6-Hannover</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer29"
+     inkscape:label="Background"
+     style="display:inline">
+    <path
+       id="path6224"
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42187"
+       d="m 120.00278,110.52092 a 9.4791778,9.479184 0 0 1 -9.47918,9.47918 9.4791778,9.479184 0 0 1 -9.47918,-9.47918 9.4791778,9.479184 0 0 1 9.47918,-9.47919 9.4791778,9.479184 0 0 1 9.47918,9.47919 z" />
+    <path
+       id="ellipse6226"
+       style="opacity:0.990354;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31251"
+       d="m 1980.93,109.73713 a 8.7500736,8.7500793 0 0 1 -8.75,8.75008 8.7500736,8.7500793 0 0 1 -8.75,-8.75008 8.7500736,8.7500793 0 0 1 8.75,-8.75008 8.7500736,8.7500793 0 0 1 8.75,8.75008 z" />
+  </g>
+</svg>
