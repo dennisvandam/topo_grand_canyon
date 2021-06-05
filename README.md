@@ -2,14 +2,14 @@
 
 ## Description
 
-Cutout a topographic contour map of the Grand Canyon.  Each layer of the cutout reflects a topographic change in the map.  
-
-Found a great writeup at theshamblog link listed below.  Describes the process of pulling GIS information and breaking it up using QGIS software.
+Create a layered topographic contour map. Each layer reflects a topographic change in the map to create a true 3 dimensional effect. Started with a section of the Grand Canyon based on the amount of elevation change over a short distance (i.e. the walls are steep).
 
 ## Notes
-- Tried converting downloaded PDF versions of maps to vectors but that generated image files.  Could do a bitmap to vector conversion on those but it generated disparate files to be linked together.  QGIS works on a data set that creates topographic paths across the entire map.  It then has the ability to generate an SVG with individual paths.  By color coding those paths per elevation, you can use Inkscape to separate each topo into its own file.
+- Initially tried converting downloaded PDF versions of maps into SVG files but that generated image files.  A bitmap to vector conversion on those generated disparate files to be linked together.
+- With a little searching, I found a great writeup at theshamblog link (see below). It describes the process of pulling GIS information and breaking it up using QGIS mapping software.
+- QGIS works on a data set that creates topographic paths across the entire map. It can create topographic maps and then generate an SVG for each individual path. I color coded each elevation path and used Inkscape to separate each topo into its own file.
 
-## Type
+## Project Type
 - Laser cutter
 
 ## References
@@ -22,13 +22,16 @@ Found a great writeup at theshamblog link listed below.  Describes the process o
 ## Files
 - [xxx.svg](xxx.svg) <img src="xxx.svg" alt="xxx" width="100"/>
 
-## Material
-- Single layer card stock
+## Materials
+- Single layer card stock (white)
 - Sides of cardboard cereal boxes
-- Material is *~ 0.5mm* thick but not always regular
+- Material is *~ 0.5mm* thick but can be irregular
+- Piece of cutoff Trex decking for the backing frames
+- Some small nails for registration pins
 
 ## Tooling:
-- SnapMaker with 1600mW laser.
+- SnapMaker A350 with 1600mW laser to cut each layer.
+- SnapMaker A350 with CNC cutter to create backing frame.
 
 ## Process
 - Install QGIS software
