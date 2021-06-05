@@ -6,8 +6,12 @@ Create a layered topographic contour map. Each layer reflects a topographic chan
 
 ## Notes
 - Initially tried converting downloaded PDF versions of maps into SVG files but that generated image files.  A bitmap to vector conversion on those generated disparate files to be linked together.
-- With a little searching, I found a great writeup at theshamblog link (see below). It describes the process of pulling GIS information and breaking it up using QGIS mapping software.
+
+- With a little searching, I found a great writeup at theshamblog (see link below). It describes the process of pulling GIS information and breaking it up using QGIS mapping software.
+
 - QGIS works on a data set that creates topographic paths across the entire map. It can create topographic maps and then generate an SVG for each individual path. I color coded each elevation path and used Inkscape to separate each topo into its own file.
+
+- I used recycled some white paper stock, cereal boxes, and some Trex decking I had lying around. It uses a surprising number of layers so it burned up quite a few old pieces of cardboard box.
 
 ## Project Type
 - Laser cutter
