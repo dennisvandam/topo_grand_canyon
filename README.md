@@ -4,6 +4,16 @@
 
 Create a layered topographic contour map. Each layer reflects a topographic change in the map to create a true 3 dimensional effect. Started with a section of the Grand Canyon based on the amount of elevation change over a short distance (i.e. the walls are steep).
 
+## Final Pics
+
+![Pic 1](images/IMG_6919.JPG)
+
+![Pic 2](images/IMG_6920.JPG)
+
+![Pic 3](images/IMG_6921.JPG)
+
+![Pic 4](images/IMG_6922.JPG)
+
 ## Notes
 - Initially tried converting downloaded PDF versions of maps into SVG files but that generated image files.  A bitmap to vector conversion on those generated disparate files to be linked together.
 
