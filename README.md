@@ -14,7 +14,7 @@ Create a layered topographic contour map. Each layer reflects a topographic chan
 
 ![Pic 4](images/small/IMG_6922.JPG)
 
-Bigger pictures: ![Pic 4](images/)
+See the images directory for larger pictures.
 
 ## Notes
 - Initially tried converting downloaded PDF versions of maps into SVG files but that generated image files.  A bitmap to vector conversion on those generated disparate files to be linked together.
