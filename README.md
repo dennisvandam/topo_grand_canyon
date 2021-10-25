@@ -6,13 +6,13 @@ Create a layered topographic contour map. Each layer reflects a topographic chan
 
 ## Final Pics
 
-![Pic 1](images/IMG_6919.JPG)
+![Pic 1](images/small/IMG_6919.JPG)
 
-![Pic 2](images/IMG_6920.JPG)
+![Pic 2](images/small/IMG_6920.JPG)
 
-![Pic 3](images/IMG_6921.JPG)
+![Pic 3](images/small/IMG_6921.JPG)
 
-![Pic 4](images/IMG_6922.JPG)
+![Pic 4](images/small/IMG_6922.JPG)
 
 ## Notes
 - Initially tried converting downloaded PDF versions of maps into SVG files but that generated image files.  A bitmap to vector conversion on those generated disparate files to be linked together.
@@ -35,9 +35,6 @@ Create a layered topographic contour map. Each layer reflects a topographic chan
   - http://www.webgis.com/terr_pages/AZ/dem1/coconino.html
     - Used the *Bright Angel Point* file
   - https://www.pickatrail.com/topo-map/b/7.5x7.5/bright-angel-point-az.html
-
-## Files
-- [xxx.svg](xxx.svg) <img src="xxx.svg" alt="xxx" width="100"/>
 
 ## Materials
 - Single layer card stock
