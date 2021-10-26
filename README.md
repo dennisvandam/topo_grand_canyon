@@ -17,15 +17,18 @@ Create a layered topographic contour map. Each layer reflects a topographic chan
 See the images directory for larger pictures.
 
 ## Notes
-- Initially tried converting downloaded PDF versions of maps into SVG files but that generated image files.  A bitmap to vector conversion on those generated disparate files to be linked together.
 
-- With a little searching, I found a great writeup at theshamblog (see link below). It describes the process of pulling GIS information and breaking it up using QGIS mapping software.
+- Initially tried converting PDF maps into SVG files. The process generated image files. A bitmap to vector conversion on those generated many separate files to be linked together. Abandoned this approach.
 
-- QGIS works on a data set that creates topographic paths across the entire map. It can create topographic maps and then generate an SVG for each individual path. I color coded each elevation path and used Inkscape to separate each topo into its own file.
+- Found a great writeup at theshamblog (see link below). It describes the process of pulling GIS information and breaking it up using QGIS mapping software.
 
-- I used recycled some white paper stock, cereal boxes, and some Trex decking I had lying around. It uses a surprising number of layers so it burned up quite a few old pieces of cardboard box. I think the only thing I purchased for this one was some additional glue.
+- QGIS works on data that creates topographic contour lines across the entire map. I used it to create topographic maps and then generate an SVG for each elevation level. I color coded each elevation path for visual separation and then used Inkscape to separate each topo into its own file.
 
-- The frames were made of some leftover Trex material I had. I used the CNC to route out a precise frame but that process took a lot of time. I'd probably use another type of framing on future runs to avoid the need for the CNC entirely.
+- I used recycled white paper stock, cereal boxes, and some Trex decking scraps. It used a surprising number of layers so it burned up quite a few pieces of cardboard box. I think the only thing I purchased for this was some glue.
+
+- The frames were made of some leftover Trex decking material. I used the CNC to route out a precise frame but that process took a lot of time. I'd probably use another type of framing on future runs to avoid the need for the CNC to construct the frame.
+
+- I made two versions of this concurrently by cutting two versions (white/brown) of each layer.  If you look closely at the pictures you can see that the layer colors alternate differently. 
 
 ## References
 - https://theshamblog.com/making-a-laser-cut-topo-map-the-design-phase/
@@ -48,7 +51,6 @@ See the images directory for larger pictures.
 - Piece of cutoff Trex decking
   - Used for the backing frame
   - Routed out profile and cut to size afterwards
-  - Was available material
 - Small nails for registration pins
 - Glue
 
